@@ -114,39 +114,39 @@ The home view consists of buttons that will take users to a particular view page
 - Marketing View
 - Supply Chain View
 - Executive View
-- Support
+- Support page
+- Feedback page
+- Attribution page
 
 ## Home Page
-
 ![Home Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Home_view.png)
 
 ## Info Page
-
 ![Info Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Info_tab.png)
 
 ## Finance View
-
 ![Finance Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Finance_view.png)
-## Sales View
 
+## Sales View
 ![Sales Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Sales_view.png)
 
 ## Marketing View
-
 ![Marketing Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Marketing_view.png)
 
 ## Supply chain View
-
 ![Supply Chain Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Supply_Chain.png)
 
 ## Executive View
-
 ![Executive Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Executive_view.png)
-## Support
 
+## Support Page
 ![Support Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Support_tab.png)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+## Feedback Page
+![Support Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Feedback_tab.png)
+
+## Attribution Page
+![Support Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/snap_attribution.png)
 
 
 ## Project Insights
