@@ -29,17 +29,12 @@ I worked on this project by following the Codebasics PowerBI Course, Link to the
 - Using KPI indicators
 - Conditional formatting of the values in visuals using icons or background color
 - Data validation techniques
-- PowerBi services
-- Publishing reports to PowerBi services
+- PowerBI services
+- Publishing reports through PowerBI services
 - Setting up a personal gateway to set up the auto-refresh of data
-- PowerBi App creation
+- PowerBI App creation
 - Collaboration, workspace, and access permissions in PowerBi services
 - And more 😅
-
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
 
 ## Business related terms
 
