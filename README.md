@@ -2,20 +2,20 @@
 
 ## Project Overview
 
-AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing, and Supply Chain.
+AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing, and Supply Chain.
 
-I worked on this project by following the Codebasics PowerBI Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
+I worked on this project by following the Codebasics Power BI Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
 ## Tools
 
 - SQL
-- PowerBI Desktop
+- Power BI Desktop
 - Excel
 - DAX language
 - DAX studio (for optimizing the report)
 - Project charter file
 
-## PowerBI techniques Learnt
+## Power BI techniques Learnt
 
 - What are all the questions that should be asked before starting the project
 - Creating calculated columns
@@ -29,11 +29,11 @@ I worked on this project by following the Codebasics PowerBI Course, Link to the
 - Using KPI indicators
 - Conditional formatting of the values in visuals using icons or background color
 - Data validation techniques
-- PowerBI services
-- Publishing reports through PowerBI services
+- Power BI services
+- Publishing reports through Power BI services
 - Setting up a personal gateway to set up the auto-refresh of data
-- PowerBI App creation
-- Collaboration, workspace, and access permissions in PowerBi services
+- Power BI App creation
+- Collaboration, workspace, and access permissions in Power BI services
 - And more 😅
 
 ## Business related terms
@@ -65,7 +65,7 @@ Project kick-off session, where you should get clear of what and why this projec
 
 ### Questions to ask before starting with the dashboard
 
-- What is the objective of building this PowerBi dashboard?
+- What is the objective of building this Power BI dashboard?
 - In what terms the success of this project will be measured?
 - What will be the deadline of the project?
 - do the stakeholders expect a preview before the actual release?
@@ -87,7 +87,7 @@ Dimension table: It is a database table that stores attributes that describe the
 
 Fact table: The fact table contains business facts (or measures) such as data about transactions within a particular period. 
 
-## Importing data into PowerBI
+## Importing data into Power BI
 
 - For this project, our data is stored in the MySQL database. To import the data from MySQL to Power BI we need to have the Database Access Credentials, select the server, and transform and load the data.
 
