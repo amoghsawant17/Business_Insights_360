@@ -50,15 +50,15 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 
 ## Company’s background
 
-AltiQ Hardware is a company that has grown vastly in recent years, and opened business all over the globe. It is a company that sells, computers and computer accessories through three mediums/channel
+AltiQ Hardware is a company that has grown vastly in recent years across the globe. It is a company that sells, computers and computer accessories through three mediums/channel
 
 - Retailer
 - Direct
 - Wholesaler/ Distributor
 
-Recently the company has faced an unforeseen loss by opening a store in America based on surveys, intuition, and some Excel analysis also the company’s competitors has a handful of analytics team to perform analysis and make data-driven decision. So, the AltiQ hardware has no other option other than building its analytics team for data-driven insights and decisions in the future to survive better in the industry. 
+Recently the company has faced an unforeseen loss by opening a store in America based on surveys, intuition, and some Excel analysis. Also, the company’s competitors have a handful of analytics teams to perform analysis and make data-driven decisions. So, the AltiQ hardware has no other option other than building its analytics team for data-driven insights and decisions for the sustainable growth of the company. 
 
-Project kick-off session, where you should get clear of what and why this project is and all other questions you have with regards to the project
+A project kick-off session is held  to get a clear understanding of the project.
 
 ### Questions to ask before starting with the dashboard
 
