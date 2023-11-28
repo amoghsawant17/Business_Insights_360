@@ -166,7 +166,7 @@ In comparison with Target,
 - Gross margin drop is highest (-3.8%) in the NA region and comparatively better (-1.72%) in the EU region.
 - Gross margin % drop is highest (-2.59%) in the NA region and comparatively better (0.56%) in the APAC region.
 - Net Profit drop is highest (-3.3%) in the EU region and comparatively better (-0.36%) in the APAC region.
-- Dell is the market leader since 2018 as per the market share %. AtliQ gained a significant market share of 5.9% in 2022 based on robust net sales growth. 
+- Dell has been the market leader since 2018 as per the market share %. AtliQ gained a significant market share of 5.9% in 2022 based on robust net sales growth. 
 
 #### Sales view and Marketing view:
 -- Customer Performance:
@@ -200,7 +200,8 @@ For the year 2022,
 - In the case of "Notebillig", forecast accuracy % increased from 18.8% to 42.7% in a year which resulted in a Net Error % of 1.31%. Hence, they were in excess of inventory. And, in the case of "Relief" stores, the forecast accuracy % is unchanged at around 52% for a year which results in a Net Error % of -0.14%. Hence, they were in an out-of-sell situation.
 - A product segment called "Peripherals" which accounts for net error% (-32%) in a year results in making this segment out of stock. And, in a product segment called "Desktop" accounts for net error% (10.24%) in a year resulting in making this segment in excess of inventory.
 
-## Key Decisions
+## Potential Decisions
+
 #### Sales and Marketing Strategy:
 - Customer Performance: Prioritize customers such as Novus, Billa, Digimarket, Flawless Stores, Notebillig, and Otto, where GM % variance is 10% or higher. A higher GM % variance indicates that GM % growth targets are not being met for these customers. Devote attention to these accounts to identify and address factors contributing to the variance and implement corrective measures.
 - Product Performance: Focus efforts on the "Notebook" segment, which has the highest net sales and gross margin. Evaluate strategies to improve the net profit and net profit margin for this segment.
