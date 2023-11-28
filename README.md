@@ -1,4 +1,6 @@
 # Business Insights 360
+
+## Project Overview
 AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing, and Supply Chain.
 
 I worked on this project by following the Codebasics Power BI Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
@@ -50,15 +52,16 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 
 ## Company’s background
 
-AltiQ Hardware is a company that has grown vastly in recent years across the globe. It is a company that sells, computers and computer accessories through three mediums/channel
+AtliQ Hardware is a consumer goods electronics company having operations in various countries. It sells, computers and computer accessories through three mediums/channel
+1. Retailer
+2. Direct
+3. Wholesaler/ Distributor
 
-- Retailer
-- Direct
-- Wholesaler/ Distributor
-
-Recently the company has faced an unforeseen loss by opening a store in America based on surveys, intuition, and some Excel analysis. Also, the company’s competitors have a handful of analytics teams to perform analysis and make data-driven decisions. So, the AltiQ hardware has no other option other than building its analytics team for data-driven insights and decisions for the sustainable growth of the company. 
-
-A project kick-off session is held  to get a clear understanding of the project.
+- Their business is growing rapidly, and they still rely on Excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics, the company faced a major loss in Latin America.
+- One of the challenges for AtliQ is its competitor which is a bigger company with having huge data analytics team that does analysis on customers demographics, consumption patterns, and income levels.
+- Hence, to overcome these shortcomings the senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+- The senior executives gave their requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI 
+ - A project kick-off session is held  to get a clear understanding of the project.
 
 ### Questions to ask before starting with the dashboard
 
