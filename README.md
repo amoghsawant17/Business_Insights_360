@@ -4,7 +4,7 @@
 In this Data Analysis project, I have studied a dataset related to a consumer goods electronics company. 
 I have analyzed their Sales, Finance, and Supply Chain data. And, I created a Power BI dashboard for Data Visualization. 
 - I worked on this project during my Codebasics Power BI Course, the Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-- Link to [Interactive Dashboard]()
+- Link to [Interactive Dashboard](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Presentation Video]()
 
 ## Problem Statement
@@ -13,7 +13,7 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 2. Direct
 3. Wholesaler/ Distributor
 - Their business is growing rapidly, and they still rely on Excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics, the company faced a major loss in Latin America.
-- One of the challenges for AtliQ is its competitor which is a bigger company with having huge data analytics team that does analysis on customers demographics, consumption patterns, and income levels.
+- One of the challenges for AtliQ is its competitor which is a bigger company with having huge data analytics team that analyzes customers' demographics, consumption patterns, and income levels.
 - Hence, to overcome these shortcomings the senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
 - The senior executives gave their requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI. 
 - A project kick-off session was held  to get a clear understanding of the project.
