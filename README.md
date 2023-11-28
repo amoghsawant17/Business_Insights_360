@@ -40,7 +40,7 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 - Net Invoice sales
 - Post-Invoice Deductions
 - Net sales
-- Cost Of Goods Sold (COGS) 
+- Cost Of Goods stock (COGS) 
 - Gross Margin
 - Net profit
 - YTD - Year to Date
@@ -122,7 +122,7 @@ The home view consists of buttons that will take users to a particular view page
 ![Info Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Info_tab.png)
 
 ## Finance View
-![Finance Page]()
+![Finance Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Finance_view.png)
 
 ## Sales View
 ![Sales Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Sales_view.png)
@@ -166,6 +166,7 @@ In comparison with Target,
 - Gross margin drop is highest (-3.8%) in the NA region and comparatively better (-1.72%) in the EU region.
 - Gross margin % drop is highest (-2.59%) in the NA region and comparatively better (0.56%) in the APAC region.
 - Net Profit drop is highest (-3.3%) in the EU region and comparatively better (-0.36%) in the APAC region.
+- Dell is the market leader since 2018 as per the market share %. AtliQ gained a significant market share of 5.9% in 2022 based on robust net sales growth. 
 
 #### Sales view and Marketing view:
 -- Customer Performance:
@@ -194,9 +195,26 @@ In comparison with Target,
 
 For the year 2022,
 - Overall forecast accuracy % increased marginally by +1.2%, net error decreased by -362%, and absolute error decreased by -29.4% compared to last year.
-- In the case of "Forward Stores", forecast accuracy % decreased from 50.7% to 10.7% in a year which resulted in Net Error % of -71.1%. Hence, they were not been able to cater to the high demand and went out of sold.
+- In the case of "Forward Stores", forecast accuracy % decreased from 50.7% to 10.7% in a year which resulted in Net Error % of -71.1%. Hence, they were not been able to cater to the high demand and went out of stock.
 - In the case of "BestBuy", forecast accuracy % increased from 35.3% to 46.6% in a year which resulted in a Net Error % of 16.72. Hence, they were in excess of inventory.
 - In the case of "Notebillig", forecast accuracy % increased from 18.8% to 42.7% in a year which resulted in a Net Error % of 1.31%. Hence, they were in excess of inventory. And, in the case of "Relief" stores, the forecast accuracy % is unchanged at around 52% for a year which results in a Net Error % of -0.14%. Hence, they were in an out-of-sell situation.
-- A product segment called "Peripherals" which accounts for net error% (-32%) in a year results in making this segment out of sold. And, in a product segment called "Desktop" accounts for net error% (10.24%) in a year resulting in making this segment in excess of inventory.
+- A product segment called "Peripherals" which accounts for net error% (-32%) in a year results in making this segment out of stock. And, in a product segment called "Desktop" accounts for net error% (10.24%) in a year resulting in making this segment in excess of inventory.
 
+## Key Decisions
+#### Sales and Marketing Strategy:
+- Customer Performance: Prioritize customers such as Novus, Billa, Digimarket, Flawless Stores, Notebillig, and Otto, where GM % variance is 10% or higher. A higher GM % variance indicates that GM % growth targets are not being met for these customers. Devote attention to these accounts to identify and address factors contributing to the variance and implement corrective measures.
+- Product Performance: Focus efforts on the "Notebook" segment, which has the highest net sales and gross margin. Evaluate strategies to improve the net profit and net profit margin for this segment.
+  
+#### Regional Focus:
+- Address challenges in the APAC region, where there are significant drops in net sales, gross margin, gross margin %, net profit, and net profit %.
+- Replicate successful strategies from the EU region, which has comparatively better performance across key metrics.
 
+#### AtliQ Hardware Expansion:
+- Acknowledge the negative growth in net profit and net profit % for AtliQ Hardware during its expansion phase. Emphasize gaining market share and evaluate success based on net sales and gross margin growth.
+
+#### Cost Management:
+- Analyze and optimize operating expenses, which contribute to an overall negative net profit. Identify cost-cutting measures without compromising essential functions.
+
+#### Supply Chain Optimization:
+- Enhance forecast accuracy, particularly for stores like "Forward Stores" with a drastic decrease in accuracy that led to an out-of-stock situation. Also, implement measures to avoid excess inventory.
+- Address issues with the "Peripherals" segment, which experienced a net error % of -32%, leading to an out-of-stock situation. Evaluate and adjust inventory levels for the "Desktop" segment with a net error % of 10.24% which leads to excess inventory.
