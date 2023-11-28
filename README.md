@@ -4,7 +4,7 @@
 In this Data Analysis project, I have studied a dataset related to a consumer goods electronics company. 
 I have analyzed their Sales, Finance, and Supply Chain data. And, I created a Power BI dashboard for Data Visualization. 
 - I worked on this project during my Codebasics Power BI Course, the Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
-- Link to [Interactive Dashboard](https://codebasics.io/portfolio/Amogh-Sawant)
+- Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Presentation Video]()
 
 ## Problem Statement
