@@ -1,12 +1,25 @@
 # Business Insights 360
 
 ## Project Overview
-AtliQ Hardware has been growing rapidly in recent years, and they have decided to implement data analytics using Power BI in their company for the first time to surpass their competitors in the market and to make data-driven decisions. This project is hoped to give answers to the questions of stakeholders in terms of all aspects like Finance, Sales, Marketing, and Supply Chain.
+In this Data Analysis project, I have studied a dataset related to a consumer goods electronics company. 
+I have analyzed their business data. And, I created a Power BI dashboard for Data Visualization. 
+- I worked on this project by following the Codebasics Power BI Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
+- Link to [Interactive Dashboard]()
+- Link to [Presentation Video]()
 
-I worked on this project by following the Codebasics Power BI Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
+## Company’s background
+AtliQ Hardware is a consumer goods electronics company having operations in various countries. It sells, computers and computer accessories through three mediums/channel
+1. Retailer
+2. Direct
+3. Wholesaler/ Distributor
+
+- Their business is growing rapidly, and they still rely on Excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics, the company faced a major loss in Latin America.
+- One of the challenges for AtliQ is its competitor which is a bigger company with having huge data analytics team that does analysis on customers demographics, consumption patterns, and income levels.
+- Hence, to overcome these shortcomings the senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+- The senior executives gave their requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI. 
+ - A project kick-off session is held  to get a clear understanding of the project.
 
 ## Tools
-
 - SQL
 - Power BI Desktop
 - Excel
@@ -15,7 +28,6 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 - Project charter file
 
 ## Power BI techniques Learnt
-
 - What are all the questions that should be asked before starting the project
 - Creating calculated columns
 - creating measures using the DAX language
@@ -36,7 +48,6 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 - And more 😅
 
 ## Business related terms
-
 - Gross price
 - Pre-Invoice Deductions
 - Net Invoice sales
@@ -50,21 +61,7 @@ I worked on this project by following the Codebasics Power BI Course, Link to th
 - Channel types: Direct, Retailer, Wholesaler/ Distributor
 - Difference between Customer and Consumer
 
-## Company’s background
-
-AtliQ Hardware is a consumer goods electronics company having operations in various countries. It sells, computers and computer accessories through three mediums/channel
-1. Retailer
-2. Direct
-3. Wholesaler/ Distributor
-
-- Their business is growing rapidly, and they still rely on Excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics, the company faced a major loss in Latin America.
-- One of the challenges for AtliQ is its competitor which is a bigger company with having huge data analytics team that does analysis on customers demographics, consumption patterns, and income levels.
-- Hence, to overcome these shortcomings the senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
-- The senior executives gave their requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI 
- - A project kick-off session is held  to get a clear understanding of the project.
-
 ### Questions to ask before starting with the dashboard
-
 - What is the objective of building this Power BI dashboard?
 - In what terms the success of this project will be measured?
 - What will be the deadline of the project?
@@ -80,19 +77,15 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 After the project kick-off meetings, the data engineering team has given the data as per the request of the data analytics team, let’s explore them.
 
 ### Dataset Understanding
-
 Data Cleaning and Data Exploration is the most crucial part of any data analysis project.
 
 Dimension table: It is a database table that stores attributes that describe the facts in a fact table such as details of customers and products.
-
 Fact table: The fact table contains business facts (or measures) such as data about transactions within a particular period. 
 
 ## Importing data into Power BI
-
 - For this project, our data is stored in the MySQL database. To import the data from MySQL to Power BI we need to have the Database Access Credentials, select the server, and transform and load the data.
 
 ## Data Model
-
 - Data modeling plays a key role and acts as a foundation for our report. All the visuals will be built upon the data model.
 - Data models should be properly checked before moving on to the next step as mistakes would cause delays in project execution and stakeholders' dissatisfaction.
 - Things to look out for while building a data model, refer to this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
@@ -101,11 +94,9 @@ Fact table: The fact table contains business facts (or measures) such as data ab
 <img src="https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Data_Model.png" class="center">
 
 ### Designing an Effective Dashboard
-
 Based on the mock-ups received from our stakeholders, the data analyst's job is to design and build dashboards.
 
 ## Home view
-
 The home view consists of buttons that will take users to a particular view page. 
 
 - Info
@@ -150,19 +141,14 @@ The home view consists of buttons that will take users to a particular view page
 
 
 ## Project Insights
-
 - Target data is a benchmark set by experienced management personnel and in this project, it is available for the year 2022 only and it gives a more accurate picture compared to the YoY change comparison. For this project, we have target data available for key metrics such as net sales, gross margin, and net profit with respect to their market/ country.
-
 - In comparison with Last year,
 for the year 2022, net sales changed by +353.5%, gross margin changed by +373%, gross margin % changed by +4.37%, and net profit % changed by -110.8%.
-
 - In comparison with Target,
 for the year 2022, net sales changed -1.86%, gross margin changed -2.51%, gross margin % changed -0.66% and net profit % changed +1.47%
-
 - Hence, we must consider comparison with respect to target data for our analysis.
 
 #### Key Metrics:
-
 For the year 2022,
 In comparison with Target,
 - Net sales drop is highest (-2.48%) in the APAC region and comparatively better (-1.13%) in the EU region.
