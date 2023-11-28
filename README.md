@@ -122,7 +122,7 @@ The home view consists of buttons that will take users to a particular view page
 ![Info Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Info_tab.png)
 
 ## Finance View
-![Finance Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Finance_view.png)
+![Finance Page]()
 
 ## Sales View
 ![Sales Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Sales_view.png)
