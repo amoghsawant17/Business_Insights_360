@@ -6,7 +6,6 @@ I have analyzed their Sales, Finance, and Supply Chain data. And, I created a Po
 - I worked on this project during my Codebasics Power BI Course, the Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
 - Link to [Live Dashboard](https://www.novypro.com/project/business-insights-360-77)
-- Link to [Presentation Video]()
 
 ## Problem Statement
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. It sells, computers and computer accessories through three mediums/channel
