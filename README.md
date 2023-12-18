@@ -1,7 +1,7 @@
 # Business Insights 360 - Power BI
 - I worked on this project during my Codebasics Power BI Course, the Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 - Link to [Portfolio Website](https://codebasics.io/portfolio/Amogh-Sawant)
-- Link to [Live Dashboard](https://www.novypro.com/project/business-insights-360-77)
+- Link to [Live Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-21)
 
 ## Problem Statement
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. It sells, computers and computer accessories through three mediums/channel
@@ -22,37 +22,44 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 - DAX studio (for optimizing the report)
 - Project charter file
 
-## Power BI techniques Learnt
-- What are all the questions that should be asked before starting the project
-- Creating calculated columns
-- creating measures using the DAX language
-- Data modeling
-- Using Bookmarks to switch between two visuals
-- Page navigation with buttons
-- Using the divide function to prevent zero division errors
-- creating data table using m language
-- Dynamic titles based on the applied filters
-- Using KPI indicators
-- Conditional formatting of the values in visuals using icons or background color
+## Techniques Learnt
+- What are all the questions that should be asked before starting a project
 - Data validation techniques
-- Power BI services
-- Publishing reports through Power BI services
+- Performing ETL using Power Query for data preparation and data transformation
+- Data modeling
+- Creating calculated columns
+- Creating measures using the DAX language
+- Using field parameters
+- Using the selection tab to create Bookmarks
+- Using Bookmarks to switch between two visuals
+- Creating page navigation with buttons and tabs
+- Using the safe divide function to prevent zero division errors
+- Applying filters to the visuals
+- Creating a date table using m language
+- Creating measures for dynamic titles
+- Using the New KPI card feature in Power BI for key indicators
+- Conditional formatting of the values in visuals using icons and/or data bars
+- Editing interactions between visuals as per requirements
+- Publishing reports to PowerBI services
 - Setting up a personal gateway to set up the auto-refresh of data
 - Power BI App creation
 - Collaboration, workspace, and access permissions in Power BI services
-- And more 😅
 
 ## Business related terms
 - Gross price
-- Pre-Invoice Deductions
+- Pre and Post Invoice Deductions
 - Net Invoice sales
-- Post-Invoice Deductions
 - Net sales
 - Cost Of Goods stock (COGS) 
 - Gross Margin
 - Net profit
+- Fiscal Year
+- Quarter-on-Quarter growth
+- Year-on-Year Growth
 - YTD - Year to Date
 - YTG - Year to Go
+- Net Error
+- Forecast Accuracy
 - Channel types: Direct, Retailer, Wholesaler/ Distributor
 - Difference between Customer and Consumer
 
@@ -100,6 +107,7 @@ The home view consists of buttons that will take users to a particular view page
 - Marketing View
 - Supply Chain View
 - Executive View
+- Top/ Bottom Products
 - Support page
 - Feedback page
 - Attribution page
@@ -125,6 +133,9 @@ The home view consists of buttons that will take users to a particular view page
 ## Executive View
 ![Executive Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Executive_view.png)
 
+## Top/ Bottom Products
+![Top/ Bottom Products](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/top_bottom_products.png)
+
 ## Support Page
 ![Support Page](https://github.com/amoghsawant17/Business_Insights_360/blob/main/Views_Snaps/Support_tab.png)
 
@@ -136,12 +147,12 @@ The home view consists of buttons that will take users to a particular view page
 
 
 ## Project Insights
-- Target data is a benchmark set by experienced management personnel and in this project, it is available for the year 2022 only and it gives a more accurate picture compared to the YoY change comparison. For this project, we have target data available for key metrics such as net sales, gross margin, and net profit with respect to their market/ country.
+- Target data is a benchmark set by experienced management personnel and in this project, it is available for the year 2022 only and it gives a more accurate picture compared to the YoY change comparison. For this project, we have target data available for key metrics such as net sales, gross margin, and net profit for their market/ country.
 - In comparison with Last year,
 for the year 2022, net sales changed by +353.5%, gross margin changed by +373%, gross margin % changed by +4.37%, and net profit % changed by -110.8%.
 - In comparison with Target,
 for the year 2022, net sales changed -1.86%, gross margin changed -2.51%, gross margin % changed -0.66% and net profit % changed +1.47%
-- Hence, we must consider comparison with respect to target data for our analysis.
+- Hence, we must consider a comparison of target data for our analysis.
 
 #### Key Metrics:
 For the year 2022,
@@ -158,16 +169,16 @@ In comparison with Target,
 For the year 2022,
 In comparison with Target,
 - GM % variance is 10% or higher, for customers such as Novus, Billa, Digimarket, Flawless Stores, Notebillig, and Otto.
-- Net sales and gross margin generated by "Amazon" are the highest (497 Million ₹ & 182.77 Million ₹) among all customers and "Nova" generated the lowest net sales and gross margin (1.71 Million ₹ & 0.52 Million ₹) at the same time period.
+- Net sales and gross margin generated by "Amazon" is the highest (497 Million ₹ & 182.77 Million ₹) among all customers and "Nova" generated the lowest net sales and gross margin (1.71 Million ₹ & 0.52 Million ₹) in the same period.
 - GM % is highest (48.55%) for "Relief" customers and it is lowest for "Novus" (21.5%).
-- Net profit and net profit margin % generated by the APAC region are the lowest (-281.16 Million ₹ & -14.62%) among all regions and the LATAM region generated comparatively better net profit and net profit margin % (-0.44 Million ₹ & -2.95%) in the same time period.
+- Net profit and net profit margin % generated by the APAC region are the lowest (-281.16 Million ₹ & -14.62%) among all regions and the LATAM region generated comparatively better net profit and net profit margin % (-0.44 Million ₹ & -2.95%) in the same period.
 
 -- Product Performance:
 
 For the year 2022,
 In comparison with Target,
-- Net sales and gross margin generated by the segment "Notebook" is the highest (1580 Million ₹ & 600 Million ₹) among all segments and the "Networking" segment generated the lowest net sales and gross margin (38.4 Million ₹ & 14.8 Million ₹) in the same time period.
-- The net profit and net profit margin % generated by the segment "Notebook" is the lowest (-222.16 Million ₹ & -14%) among all segments and the "Networking" segment generated comparatively better net profit and net profit margin % (-5.27 Million ₹ & -13.72%) in the same time period.
+- Net sales and gross margin generated by the segment "Notebook" is the highest (1580 Million ₹ & 600 Million ₹) among all segments and the "Networking" segment generated the lowest net sales and gross margin (38.4 Million ₹ & 14.8 Million ₹) in the same period.
+- The net profit and net profit margin % generated by the segment "Notebook" is the lowest (-222.16 Million ₹ & -14%) among all segments and the "Networking" segment generated comparatively better net profit and net profit margin % (-5.27 Million ₹ & -13.72%) in the same period.
 
 - AtliQ Hardware is in its expansion phase. Hence, a negative growth of net Profit and net profit % may not be the right metric to look at while analyzing its business growth as its main focus now is to gain a sizable amount of market share from its competitors and net sales and gross margin growth.
 
@@ -180,9 +191,9 @@ In comparison with Target,
 For the year 2022,
 - Overall forecast accuracy % increased marginally by +1.2%, net error decreased by -362%, and absolute error decreased by -29.4% compared to last year.
 - In the case of "Forward Stores", forecast accuracy % decreased from 50.7% to 10.7% in a year which resulted in Net Error % of -71.1%. Hence, they were not been able to cater to the high demand and went out of stock.
-- In the case of "BestBuy", forecast accuracy % increased from 35.3% to 46.6% in a year which resulted in a Net Error % of 16.72. Hence, they were in excess of inventory.
-- In the case of "Notebillig", forecast accuracy % increased from 18.8% to 42.7% in a year which resulted in a Net Error % of 1.31%. Hence, they were in excess of inventory. And, in the case of "Relief" stores, the forecast accuracy % is unchanged at around 52% for a year which results in a Net Error % of -0.14%. Hence, they were in an out-of-sell situation.
-- A product segment called "Peripherals" which accounts for net error% (-32%) in a year results in making this segment out of stock. And, in a product segment called "Desktop" accounts for net error% (10.24%) in a year resulting in making this segment in excess of inventory.
+- In the case of "BestBuy", forecast accuracy % increased from 35.3% to 46.6% in a year which resulted in a Net Error % of 16.72. Hence, they were more than inventory.
+- In the case of "Notebillig", forecast accuracy % increased from 18.8% to 42.7% in a year which resulted in a Net Error % of 1.31%. Hence, they were more than inventory. And, in the case of "Relief" stores, the forecast accuracy % is unchanged at around 52% for a year which results in a Net Error % of -0.14%. Hence, they were in an out-of-sell situation.
+- A product segment called "Peripherals" which accounts for net error% (-32%) in a year results in making this segment out of stock. And, in a product segment called "Desktop" accounts for net error% (10.24%) in a year resulting in making this segment over inventory.
 
 ## Potential Decisions
 
