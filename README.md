@@ -23,27 +23,26 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 - Project charter file
 
 ## Techniques Learnt
-- What are all the questions that should be asked before starting a project
-- Data validation techniques
-- Performing ETL using Power Query for data preparation and data transformation
+- What crucial queries should be addressed before project kick-off?
+- Ensure data accuracy and reliability through effective validation strategies
+- Utilize Power Query for seamless Extract, Transform, Load (ETL) processes for data preparation and data transformation
 - Data modeling
-- Creating calculated columns
-- Creating measures using the DAX language
+- Apply DAX language for creating measures and calculated columns
 - Using field parameters
 - Using the selection tab to create Bookmarks
 - Using Bookmarks to switch between two visuals
-- Creating page navigation with buttons and tabs
-- Using the safe divide function to prevent zero division errors
+- Create user-friendly navigation using buttons and tabs
+- Prevent zero division errors with the safe divide function
 - Applying filters to the visuals
-- Creating a date table using m language
-- Creating measures for dynamic titles
-- Using the New KPI card feature in Power BI for key indicators
+- Creating date table using m language
+- Generate dynamic titles based on changing data using measures
+- Highlight key indicators effectively with the New KPI card feature
 - Conditional formatting of the values in visuals using icons and/or data bars
 - Editing interactions between visuals as per requirements
 - Publishing reports to PowerBI services
-- Setting up a personal gateway to set up the auto-refresh of data
-- Power BI App creation
-- Collaboration, workspace, and access permissions in Power BI services
+- Establish a personal gateway for automatic data refresh
+- Create Power BI apps for enhanced functionality
+- Streamline teamwork with effective collaboration, workspace, and access permissions in Power BI services
 
 ## Business related terms
 - Gross price
@@ -63,18 +62,18 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 - Channel types: Direct, Retailer, Wholesaler/ Distributor
 - Difference between Customer and Consumer
 
-### Questions to ask before starting with the dashboard
-- What is the objective of building this Power BI dashboard?
-- In what terms the success of this project will be measured?
-- What will be the deadline of the project?
-- do the stakeholders expect a preview before the actual release?
-- What are all the hopes stakeholders have out of this project?
-- what are all the fears the stakeholders have in terms of building this dashboard?
-- Who will be using this dashboard and for what purpose?
-- what are all expectations the stakeholders have, by the completion of this project?
-- What can go wrong while building this project?
-- what are all the resources/ data needed to build this dashboard?
-- is there any input from stakeholders in terms of design and views of the dashboard?
+### Questions to ask at the start before building a dashboard
+- What is the primary objective behind developing this Power BI dashboard?
+- How will the success of this project be measured?
+- What is the project deadline?
+- Do stakeholders anticipate a preview before the official release?
+- What specific expectations do stakeholders have for this project?
+- Are there any concerns or fears among stakeholders regarding the development of this dashboard?
+- Who will be the end users of this dashboard, and what purposes will it serve for them?
+- What are the anticipated benefits or outcomes stakeholders hope to achieve through this project?
+- What potential challenges or obstacles might arise during the development of this dashboard?
+- What resources and data will be required to successfully build and implement this dashboard?
+- Have stakeholders provided any input on the design and views of the dashboard?
 
 After the project kick-off meetings, the data engineering team has given the data as per the request of the data analytics team, let’s explore them.
 
